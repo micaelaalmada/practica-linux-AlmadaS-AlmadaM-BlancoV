@@ -1,0 +1,20 @@
+===== verificación de permisos - micaelaa =====
+archivos en mi directorio personal:
+total 8
+drwxrwxr-x  2 vagrant vagrant 4096 Jun 28 14:52 .
+drwxr-x--- 10 vagrant vagrant 4096 Jun 28 14:52 ..
+-rw-------  1 vagrant vagrant    0 Jun 28 14:52 privado.txt
+-rw-r--r--  1 vagrant vagrant    0 Jun 28 14:52 publico.txt
+archivos en directorio colaborativo:
+información del grupo equipotrabajo:
+
+===== VERIFICACIÓN DE PERMISOS - micaelaa =====
+Archivos en mi directorio personal:
+total 8
+drwxrwxr-x  2 vagrant vagrant 4096 Jun 28 14:52 .
+drwxr-x--- 10 vagrant vagrant 4096 Jun 28 14:52 ..
+-rw-------  1 vagrant vagrant    0 Jun 28 14:52 privado.txt
+-rw-r--r--  1 vagrant vagrant    0 Jun 28 14:52 publico.txt
+Archivos en directorio colaborativo:
+Información del grupo equipotrabajo:
+

@@ -1,0 +1,24 @@
+===== verificación de permisos - sergioa =====
+archivos en mi directorio personal:
+total 8
+drwxrwxr-x  2 vagrant vagrant 4096 Jun 28 14:51 .
+drwxr-x--- 10 vagrant vagrant 4096 Jun 28 14:51 ..
+-rw-------  1 vagrant vagrant    0 Jun 28 14:51 privado.txt
+-rw-r--r--  1 vagrant vagrant    0 Jun 28 14:51 publico.txt
+archivos en directorio colaborativo:
+información del grupo equipotrabajo:
+equipotrabajo:x:1005:estudiante1,estudiante2,estudiante3,vagrant
+
+archivos en mi directorio personal:
+total 8
+drwxrwxr-x  2 vagrant vagrant 4096 Jun 28 14:51 .
+drwxr-x--- 10 vagrant vagrant 4096 Jun 28 14:51 ..
+-rw-------  1 vagrant vagrant    0 Jun 28 14:51 privado.txt
+-rw-r--r--  1 vagrant vagrant    0 Jun 28 14:51 publico.txt
+archivos en directorio colaborativo:
+total 8
+drwxrws---  2 root equipotrabajo 4096 Jun 28 15:22 .
+drwxrwxrwt 11 root root          4096 Jun 28 15:26 ..
+información del grupo equipotrabajo:
+equipotrabajo:x:1005:estudiante1,estudiante2,estudiante3,vagrant
+
