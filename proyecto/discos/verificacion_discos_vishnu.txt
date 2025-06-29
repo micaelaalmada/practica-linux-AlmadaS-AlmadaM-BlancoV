@@ -1,0 +1,24 @@
+===== VERIFICACIÓN DE DISCOS [BLANCOV] =====
+Espacio en disco:
+Filesystem                       Size  Used Avail Use% Mounted on
+tmpfs                            197M  976K  196M   1% /run
+/dev/sda1                         39G  2.5G   37G   7% /
+tmpfs                            982M     0  982M   0% /dev/shm
+tmpfs                            5.0M     0  5.0M   0% /run/lock
+home_vagrant_carpeta_compartida  894G  439G  456G  50% /home/vagrant/carpeta_compartida
+tmpfs                            197M  4.0K  197M   1% /run/user/1000
+/dev/sdb1                        4.5M   24K  3.8M   1% /mnt/almacenamiento_[BlancoV]
+Dispositivos de bloque:
+NAME   MAJ:MIN RM  SIZE RO TYPE MOUNTPOINTS
+loop0    7:0    0 63.8M  1 loop /snap/core20/2501
+loop1    7:1    0 89.4M  1 loop /snap/lxd/31333
+loop2    7:2    0 44.4M  1 loop /snap/snapd/23771
+loop3    7:3    0 63.8M  1 loop /snap/core20/2599
+loop4    7:4    0 50.9M  1 loop /snap/snapd/24718
+sda      8:0    0   40G  0 disk 
+└─sda1   8:1    0   40G  0 part /
+sdb      8:16   0   10M  0 disk 
+└─sdb1   8:17   0    9M  0 part /mnt/almacenamiento_[BlancoV]
+Configuración de montaje automático:
+/dev/sdb1 /mnt/almacenamiento_[BlancoV] ext4 defaults 0 0
+
