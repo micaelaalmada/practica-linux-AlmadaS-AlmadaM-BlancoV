@@ -1,31 +1,4 @@
 <<<<<<< HEAD
-===== VERIFICACIÓN DE ARCHIVOS - [SERGIOA] =====
-Estructura de directorios creada:
-/mnt/almacenamiento_sergioa/
-/mnt/almacenamiento_sergioa/lost+found
-/mnt/almacenamiento_sergioa/proyectos
-/mnt/almacenamiento_sergioa/proyectos/activos
-/mnt/almacenamiento_sergioa/proyectos/archivados
-/mnt/almacenamiento_sergioa/respaldos
-/mnt/almacenamiento_sergioa/temporal
-/mnt/almacenamiento_sergioa/temporal/archivos
-Archivos en cada directorio:
--rw-r--r-- 1 root root 27 Jun 29 03:15 /mnt/almacenamiento_sergioa/proyectos/activos/documento_01.txt
--rw-r--r-- 1 root root 27 Jun 29 03:15 /mnt/almacenamiento_sergioa/proyectos/activos/documento_05.txt
--rw-r--r-- 1 root root 27 Jun 29 03:15 /mnt/almacenamiento_sergioa/proyectos/activos/documento_02.txt
--rw-r--r-- 1 root root 27 Jun 29 03:15 /mnt/almacenamiento_sergioa/proyectos/activos/documento_03.txt
--rw-r--r-- 1 root root 27 Jun 29 03:15 /mnt/almacenamiento_sergioa/proyectos/activos/documento_04.txt
--rw-rw-r-- 1 vagrant vagrant 27 Jun 29 02:50 /mnt/almacenamiento_sergioa/proyectos/archivados/documento_06.txt
--rw-rw-r-- 1 vagrant vagrant 27 Jun 29 02:50 /mnt/almacenamiento_sergioa/proyectos/archivados/documento_08.txt
--rw-rw-r-- 1 vagrant vagrant 27 Jun 29 02:50 /mnt/almacenamiento_sergioa/proyectos/archivados/documento_07.txt
--rw-r--r-- 1 root root 27 Jun 29 03:15 /mnt/almacenamiento_sergioa/respaldos/documento_10.txt
--rw-r--r-- 1 root root 26 Jun 29 03:15 /mnt/almacenamiento_sergioa/respaldos/documento_09.txt
--rw-rw-r-- 1 vagrant vagrant 1466 Jun 29 03:18 /mnt/almacenamiento_sergioa/temporal/archivos/verificacion_archivos.txt
--rw-rw-r-- 1 vagrant vagrant 27 Jun 29 02:50 /mnt/almacenamiento_sergioa/temporal/documento_01.txt
--rw-rw-r-- 1 vagrant vagrant 27 Jun 29 02:50 /mnt/almacenamiento_sergioa/temporal/documento_05.txt
--rw-rw-r-- 1 vagrant vagrant 27 Jun 29 02:50 /mnt/almacenamiento_sergioa/temporal/documento_02.txt
--rw-rw-r-- 1 vagrant vagrant 27 Jun 29 02:50 /mnt/almacenamiento_sergioa/temporal/documento_03.txt
--rw-rw-r-- 1 vagrant vagrant 27 Jun 29 02:50 /mnt/almacenamiento_sergioa/temporal/documento_04.txt
 =======
 ===== VERIFICACIÓN DE ARCHIVOS - micaelaa =====
 Estructura de directorios creada:
