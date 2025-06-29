@@ -1,0 +1,25 @@
+===== VERIFICACIÓN DE ARCHIVOS [BLANCOV] =====
+Estructura de directorios creada:
+/mnt/almacenamiento_[BLANCOV]
+/mnt/almacenamiento_[BLANCOV]/proyectos
+/mnt/almacenamiento_[BLANCOV]/proyectos/archivados
+/mnt/almacenamiento_[BLANCOV]/proyectos/activos
+/mnt/almacenamiento_[BLANCOV]/temporal
+/mnt/almacenamiento_[BLANCOV]/respaldos
+Archivos en cada directorio:
+-rw-rw-r-- 1 vagrant vagrant 27 Jun 29 19:06 /mnt/almacenamiento_[BLANCOV]/proyectos/archivados/documento_07.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jun 29 19:06 /mnt/almacenamiento_[BLANCOV]/proyectos/archivados/documento_08.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jun 29 19:06 /mnt/almacenamiento_[BLANCOV]/proyectos/archivados/documento_06.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jun 29 19:25 /mnt/almacenamiento_[BLANCOV]/proyectos/activos/documento_05.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jun 29 19:24 /mnt/almacenamiento_[BLANCOV]/proyectos/activos/documento_01.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jun 29 19:24 /mnt/almacenamiento_[BLANCOV]/proyectos/activos/documento_03.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jun 29 19:24 /mnt/almacenamiento_[BLANCOV]/proyectos/activos/documento_02.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jun 29 19:24 /mnt/almacenamiento_[BLANCOV]/proyectos/activos/documento_04.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jun 29 19:06 /mnt/almacenamiento_[BLANCOV]/temporal/documento_05.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jun 29 19:06 /mnt/almacenamiento_[BLANCOV]/temporal/documento_01.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jun 29 19:06 /mnt/almacenamiento_[BLANCOV]/temporal/documento_03.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jun 29 19:06 /mnt/almacenamiento_[BLANCOV]/temporal/documento_02.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jun 29 19:06 /mnt/almacenamiento_[BLANCOV]/temporal/documento_04.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jun 29 19:25 /mnt/almacenamiento_[BLANCOV]/respaldos/documento_10.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jun 29 19:25 /mnt/almacenamiento_[BLANCOV]/respaldos/documento_09.txt
+
