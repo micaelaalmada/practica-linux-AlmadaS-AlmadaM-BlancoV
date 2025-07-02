@@ -1,7 +1,7 @@
 # Pi-hole configuration file (v6.2.3)
 # Encoding: UTF-8
 # This file is managed by pihole-FTL
-# Last updated on 2025-06-29 22:23:51 -03
+# Last updated on 2025-07-02 19:33:10 -03
 
 [dns]
   # Array of upstream DNS servers used by Pi-hole
@@ -812,7 +812,7 @@
     #
     # Possible values are:
     #     <valid Pi-hole password hash>
-    pwhash = "$BALLOON-SHA256$v=1$s=1024,t=32$RdnC5qyTz+1b7BMRqRvZqQ==$TpxRWzD9r1Lx+dup1WwbiR0eaazcHsGsdSXqpSALFws=" ### CHANGED, default = ""
+    pwhash = "$BALLOON-SHA256$v=1$s=1024,t=32$oQK4lB2A2rTzDA3M4vmiSQ==$W9F4o4Azr/GmrScjuRuVEOxBtE/1/rNLNbuoLNSRTFQ=" ### CHANGED, default = ""
 
     # Pi-hole 2FA TOTP secret. When set to something different than "", 2FA authentication
     # will be enforced for the API and the web interface. This setting is write-only, you
